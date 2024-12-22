@@ -1,0 +1,14 @@
+
+#icon {
+    display: flex;
+    justify-content: right; 
+    align-items: center; 
+    margin-left: auto;  
+  }
+  
+  #icon img {
+    width: 200px; 
+    height: auto; 
+    border-radius: 50%;  
+  }
+  
